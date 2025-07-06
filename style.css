@@ -317,5 +317,24 @@ body {
 .small-container{
   height: auto;
   width: 80%;
+}
+.nadu-center{
   text-align: justify;
+}
+.links{
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  display: block;
+}
+footer {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    margin-top: 50px;
+    backdrop-filter: blur(10px);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
 }
