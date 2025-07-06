@@ -302,3 +302,20 @@ body {
     font-size: 0.9rem;
   }
 }
+.mid-size{
+  font-size: 1.5rem;
+}
+.small-size{
+  font-size: 1.3rem;
+}
+.large-size{
+  font-size: 2rem;
+}
+.very-small-size{
+  font-size: 1.1rem;
+}
+.small-container{
+  height: auto;
+  width: 80%;
+  text-align: justify;
+}
